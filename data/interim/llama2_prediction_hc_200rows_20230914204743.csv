@@ -1,0 +1,201 @@
+,Transcription,Prediction,Real
+0,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+1,General Inquiries,General Inquiries,General Inquiries
+2,Lab and Test Results,Lab and Test Results,Lab and Test Results
+3,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+4,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+5,Lab and Test Results,Lab and Test Results,Lab and Test Results
+6,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+7,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+8, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+9,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+10,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+11,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+12,Medical Records Requests,Medical Records Requests,Medical Records Requests
+13,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+14,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+15,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+16,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+17,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+18, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+19,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+20,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+21,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+22,Lab and Test Results,Lab and Test Results,Lab and Test Results
+23,Medical Records Requests,Medical Records Requests,Medical Records Requests
+24,Lab and Test Results,Lab and Test Results,Lab and Test Results
+25, ['Referrals and Specialist Appointments'],Lab and Test Results,Lab and Test Results
+26,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+27,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+28,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+29,Medical Records Requests,Medical Records Requests,Medical Records Requests
+30,General Inquiries,General Inquiries,General Inquiries
+31, ['Medical Advice or Symptom Assessment'],General Inquiries,General Inquiries
+32,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+33, ['General Inquiries'],Healthcare Facility Information,Healthcare Facility Information
+34,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+35,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+36, ['Medical Advice or Symptom Assessment'],General Inquiries,General Inquiries
+37,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+38,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+39,Lab and Test Results,Lab and Test Results,Lab and Test Results
+40,General Inquiries,General Inquiries,General Inquiries
+41,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+42,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+43,General Inquiries,General Inquiries,General Inquiries
+44, ['Medical Advice or Symptom Assessment'],Lab and Test Results,Lab and Test Results
+45,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+46,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+47,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+48, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+49,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+50, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+51,General Inquiries,General Inquiries,General Inquiries
+52, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+53,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+54,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+55,Medical Records Requests,Medical Records Requests,Medical Records Requests
+56,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+57,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+58,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+59,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+60,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+61,Medical Records Requests,Medical Records Requests,Medical Records Requests
+62,Medical Records Requests,Medical Records Requests,Medical Records Requests
+63,Medical Records Requests,Medical Records Requests,Medical Records Requests
+64,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+65,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+66, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+67,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+68,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+69,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+70,Lab and Test Results,Lab and Test Results,Lab and Test Results
+71,Lab and Test Results,Lab and Test Results,Lab and Test Results
+72, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+73,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+74,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+75, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+76,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+77,Lab and Test Results,Lab and Test Results,Lab and Test Results
+78,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+79,General Inquiries,General Inquiries,General Inquiries
+80,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+81,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+82,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+83, ['Referrals and Specialist Appointments'],Appointment Scheduling,Appointment Scheduling
+84, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+85,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+86, ['Referrals and Specialist Appointments'],Appointment Scheduling,Appointment Scheduling
+87,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+88,Medical Records Requests,Medical Records Requests,Medical Records Requests
+89, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+90,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+91,General Inquiries,General Inquiries,General Inquiries
+92, ['Appointment Scheduling'],Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+93, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+94,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+95,General Inquiries,General Inquiries,General Inquiries
+96,Medical Records Requests,Medical Records Requests,Medical Records Requests
+97,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+98,Medical Records Requests,Medical Records Requests,Medical Records Requests
+99,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+100,Medical Records Requests,Medical Records Requests,Medical Records Requests
+101,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+102,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+103,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+104,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+105, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+106,General Inquiries,General Inquiries,General Inquiries
+107, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+108, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+109, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+110, ['Medical Advice or Symptom Assessment'],Follow-up Calls and Care Management,Follow-up Calls and Care Management
+111, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+112,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+113,General Inquiries,General Inquiries,General Inquiries
+114,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+115,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+116,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+117, ['Referrals and Specialist Appointments'],Appointment Scheduling,Appointment Scheduling
+118,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+119,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+120,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+121,General Inquiries,General Inquiries,General Inquiries
+122,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+123,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+124,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+125,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+126,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+127,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+128,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+129,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+130, ['Insurance and Billing Inquiries'],General Inquiries,General Inquiries
+131,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+132,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+133,Lab and Test Results,Lab and Test Results,Lab and Test Results
+134,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+135,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+136,Lab and Test Results,Lab and Test Results,Lab and Test Results
+137,Medical Records Requests,Medical Records Requests,Medical Records Requests
+138,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+139,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+140,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+141,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+142,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+143,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+144,Medical Records Requests,Medical Records Requests,Medical Records Requests
+145,General Inquiries,General Inquiries,General Inquiries
+146,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+147,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+148,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+149,Medical Records Requests,Medical Records Requests,Medical Records Requests
+150,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+151,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+152,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+153,Lab and Test Results,Lab and Test Results,Lab and Test Results
+154, ['Healthcare Facility Information'],General Inquiries,General Inquiries
+155,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+156,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+157,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+158,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+159,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+160, ['General Inquiries'],Healthcare Facility Information,Healthcare Facility Information
+161, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+162,Lab and Test Results,Lab and Test Results,Lab and Test Results
+163, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+164,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+165,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+166,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+167,General Inquiries,General Inquiries,General Inquiries
+168,Medical Records Requests,Medical Records Requests,Medical Records Requests
+169, ['Medical Advice or Symptom Assessment'],Healthcare Facility Information,Healthcare Facility Information
+170,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+171, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+172,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+173, ['General Inquiries'],Healthcare Facility Information,Healthcare Facility Information
+174,General Inquiries,General Inquiries,General Inquiries
+175,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+176,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+177, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+178,Insurance and Billing Inquiries,Insurance and Billing Inquiries,Insurance and Billing Inquiries
+179,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+180,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+181, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+182,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+183, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+184,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+185, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+186, ['Medical Advice or Symptom Assessment'],Medication Refills and Prescription Inquiries,Medication Refills and Prescription Inquiries
+187,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+188,General Inquiries,General Inquiries,General Inquiries
+189,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+190,Follow-up Calls and Care Management,Follow-up Calls and Care Management,Follow-up Calls and Care Management
+191,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+192,Appointment Scheduling,Appointment Scheduling,Appointment Scheduling
+193,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+194,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment,Medical Advice or Symptom Assessment
+195,Referrals and Specialist Appointments,Referrals and Specialist Appointments,Referrals and Specialist Appointments
+196,Lab and Test Results,Lab and Test Results,Lab and Test Results
+197,Lab and Test Results,Lab and Test Results,Lab and Test Results
+198,Healthcare Facility Information,Healthcare Facility Information,Healthcare Facility Information
+199,Lab and Test Results,Lab and Test Results,Lab and Test Results
